@@ -1,0 +1,122 @@
+.row{
+	width: 100%;
+	display: flex;
+}
+.col-1{
+	width: 8.33%;
+}
+.col-2{
+	width: 16.67%;
+}
+.col-3{
+	width: 25%;
+}
+.col-4{
+	width: 33.33%; 
+}
+.col-5{
+	width: 41.67%;
+}
+.col-6{
+	width: 50%;
+}
+.col-7{
+	width: 58.33%;
+}
+.col-8{
+	width: 66.67%;
+}
+.col-9{
+	width: 75%;
+}
+.col-10{
+	width: 83.33%;
+}
+.col-11{
+	width: 91.67%;
+}
+.col-12{
+	width: 100%;
+}
+.hero{
+	background-image: url("<img src="..\images\surgery-1822458_640.jpg);
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.nav{
+	list-style-type: none;
+	text-decoration: none;
+	display: flex;
+
+}
+
+}
+li{
+	margin: 0px 15px;
+}
+h1{
+	color: whitesmoke;
+	background-color: green;
+	border-radius: 30px;
+}
+
+.r{
+	border: 2px solid whitesmoke;
+	border-radius: 10px;
+	margin-right: 10px;
+	background-color: cornflowerblue;
+	margin: 20px;
+}
+.mom{
+	color: white;
+	background-color: whitesmoke;
+	padding-right: 8px;
+	background-color: cadetblue;
+	margin: 15px;
+	border-radius: 10px;
+	font-size: 20px;
+
+
+}
+.do{
+	background-color: whitesmoke;
+	border-radius: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 30px;
+}
+.main{
+	width: 100%;
+	background:linear-gradient(to top, rgba(0, 0, 0, 0.5)100%),rgba(0, 0, 0, 0.5),100% url(../images\1735927470771.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 150vh;
+
+}
+.src{
+	width: 340px;
+	float: left;
+	margin-left: 200px;
+	height: 40px;
+	background: pink;
+	border: 1px solid whitesmoke;
+
+}
+.btn{
+background-color: bisque;
+border: 1px solid orange;
+border: 2px;
+
+}
+.about-img{
+	width: 250px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: blue;
+}
+.linear-gradient{
+	color: yellow ;
+}
+
