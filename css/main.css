@@ -39,7 +39,7 @@
 	width: 100%;
 }
 .hero{
-	background-image: url("<img src="..\images\surgery-1822458_640.jpg);
+	background-image: url("../images/surgery-1822458_640.jpg");
 	height: 600px;
 	background-repeat: no-repeat;
 	background-size: cover;
